@@ -1,2 +1,2 @@
-const result = ["1a", "a", "2b", "b"].filter(word => /[0-9]/.test(word));
+const result = ["this is a test", "test1"].filter(word => /[0-9]/.test(word));
 console.log(result);
